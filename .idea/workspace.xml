@@ -5,9 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3433c9e4-28fd-4fbf-97e0-4a71ba51c974" name="Changes" comment="Pilares de OO">
-      <change afterPath="$PROJECT_DIR$/Exemplos/Animal.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exemplos/LivroFiccao.py" beforeDir="false" afterPath="$PROJECT_DIR$/Exemplos/LivroFiccao.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -96,7 +94,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1724252967923</updated>
-      <workItem from="1724252975868" duration="6640000" />
+      <workItem from="1724252975868" duration="7275000" />
     </task>
     <task id="LOCAL-00001" summary="First">
       <option name="closed" value="true" />
@@ -138,7 +136,15 @@
       <option name="project" value="LOCAL" />
       <updated>1724260399665</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Pilares de OO">
+      <option name="closed" value="true" />
+      <created>1724265792248</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1724265792248</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
