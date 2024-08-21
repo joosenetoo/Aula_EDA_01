@@ -35,3 +35,6 @@ for medicamento in estoque.listar_medicamentos():
 print("\nDetalhes das Consultas Agendadas:")
 print(consulta1)
 print(consulta2)
+
+paciente1.set_name("Miriam")
+print(paciente1)

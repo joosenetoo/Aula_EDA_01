@@ -6,3 +6,6 @@ class Paciente:
 
     def __str__(self):
         return f"Paciente: {self.nome}, Idade: {self.idade}, Prontuário: {self.prontuario}"
+
+    def set_name(self, nome):
+        self.nome = nome
