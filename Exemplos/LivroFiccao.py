@@ -7,3 +7,4 @@ class LivroFiccao(Livro):
 
     def calcular_preco(self):
         return self.paginas * 0.05  # Preço baseado no número de páginas
+
